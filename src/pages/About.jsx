@@ -11,7 +11,7 @@ const About = () => {
         {/* Image */}
         <div className="w-full md:w-1/2">
           <img
-            src='/images/ChatGPT Image Jul 6, 2025, 12_02_14 PM.png'
+            src='/Trendoor/images/ChatGPT Image Jul 6, 2025, 12_02_14 PM.png'
             alt="About Trendoor"
             className="w-full h-100 rounded-md shadow-md object-cover"
           />
