@@ -7,7 +7,7 @@ const Navbar = () => {
     const {setshowsearch, getcartcount}=useContext(Shopcontext)
     return (
         <div className='flex items-center justify-between py-5 font-medium'>
-     <Link to='/'>     <img src="/Trendoor/images/Screenshot 2025-06-30 141043.png" alt="no image" className='w-36' /></Link>  
+     <Link to='/'>     <img src="images/Screenshot 2025-06-30 141043.png" alt="no image" className='w-36' /></Link>  
             <ul className='hidden  sm:flex gap-5 text-sm text-gray-700'>
                 <NavLink to='/' className='flex flex-col items-center gap-1'>
                     <p>HOME</p>
